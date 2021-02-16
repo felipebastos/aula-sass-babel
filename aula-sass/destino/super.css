@@ -1,0 +1,19 @@
+body {
+  background-color: #FF00DD;
+  border: 10px solid #00EE00;
+}
+
+ol li {
+  font-size: 200%;
+}
+
+div h1 {
+  color: #CCCCCC;
+  background-color: #440011;
+  border: 10px #CCCCCC dotted;
+}
+div p {
+  text-align: right;
+}
+
+/*# sourceMappingURL=super.css.map */

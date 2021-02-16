@@ -1,0 +1,27 @@
+@use '_parcial';
+
+$variavel: 10px solid #00EE00;
+$variavel2: #FF00DD;
+
+body {
+    background-color: $variavel2;
+    border: $variavel;
+}
+
+ol {
+    li {
+        font-size: parcial.$tamanho;
+    }
+}
+$cor_de_fundo: #440011;
+$primeiro_plano: #CCCCCC;
+div {
+    h1 {
+        color: $primeiro_plano;
+        background-color: $cor_de_fundo;
+        border: 10px $primeiro_plano dotted;
+    }
+    p {
+        text-align: right;
+    }
+}
