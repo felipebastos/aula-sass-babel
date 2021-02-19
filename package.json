@@ -22,6 +22,13 @@
     "@babel/core": "^7.12.16",
     "@babel/plugin-proposal-class-properties": "^7.12.13",
     "@babel/plugin-proposal-private-property-in-object": "^7.12.13",
-    "@babel/preset-env": "^7.12.16"
+    "@babel/preset-env": "^7.12.16",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.32.8"
   }
 }
